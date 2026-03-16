@@ -1,14 +1,14 @@
 # Mad Snake - Arcade Snake Game for iOS
 
-[![Download on the App Store](https://img.shields.io/badge/App_Store-Download-blue?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/mad-snake-game/id6746875498)
-[![Platform](https://img.shields.io/badge/Platform-iOS_16+-black?style=flat-square&logo=apple)](https://apps.apple.com/app/mad-snake-game/id6746875498)
+[![Download on the App Store](https://img.shields.io/badge/App_Store-Download-blue?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/au/app/mad-snake-arcade-game/id6759598440)
+[![Platform](https://img.shields.io/badge/Platform-iOS_16+-black?style=flat-square&logo=apple)](https://apps.apple.com/au/app/mad-snake-arcade-game/id6759598440)
 [![Swift](https://img.shields.io/badge/Swift-5-F05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
 [![SpriteKit](https://img.shields.io/badge/Built_with-SpriteKit-00C7B7?style=flat-square)](https://developer.apple.com/spritekit/)
 
 **Mad Snake** is a fast-paced arcade snake game for iPhone and iPad, built with SpriteKit and SwiftUI. Five challenging levels, an endless Mad Mode, enemy snakes, and retro-inspired gameplay - all in a polished native iOS experience.
 
 <p align="center">
-  <a href="https://apps.apple.com/app/mad-snake-game/id6746875498">
+  <a href="https://apps.apple.com/au/app/mad-snake-arcade-game/id6759598440">
     <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download Mad Snake on the App Store" width="200">
   </a>
 </p>
@@ -71,13 +71,13 @@ Hey, I'm Rodrigo - a solo indie dev who built Mad Snake from scratch as a native
 
 ## Links
 
-- **App Store**: [Download Mad Snake](https://apps.apple.com/app/mad-snake-game/id6746875498)
+- **App Store**: [Download Mad Snake](https://apps.apple.com/au/app/mad-snake-arcade-game/id6759598440)
 - **Website**: [madsnake.app](https://madsnake.app)
 
 ---
 
 <p align="center">
-  <a href="https://apps.apple.com/app/mad-snake-game/id6746875498">
+  <a href="https://apps.apple.com/au/app/mad-snake-arcade-game/id6759598440">
     <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download Mad Snake on the App Store" width="200">
   </a>
   <br><br>
